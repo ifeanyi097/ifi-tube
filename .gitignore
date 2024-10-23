@@ -1,0 +1,25 @@
+*.pyc
+*.pyo
+__pycache__/
+*.db
+*.sqlite3
+*.log
+*.pot
+*.pyc
+
+*.env
+.env
+ *.log
+*.pot
+*.pyc
+*.sqlite3
+.venvtube/
+.vscode/
+venvtube/
+.DS_Store
+coverage/
+dist/
+build/
+env/
+/media/
+cloudinary_caches/
